@@ -107,7 +107,7 @@ export default function BirthdayWebsite() {
 
         {/* Hidden audio element */}
         <audio ref={audioRef} loop>
-          <source src="https://koshalworld.com/files/download/id/61733" type="audio/mpeg" />
+          <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
 
@@ -335,7 +335,7 @@ export default function BirthdayWebsite() {
 
         {/* Hidden audio element */}
         <audio ref={audioRef} loop>
-          <source src="https://koshalworld.com/files/download/id/61733" type="audio/mpeg" />
+          <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
 
@@ -504,7 +504,7 @@ export default function BirthdayWebsite() {
 
         {/* Hidden audio element */}
         <audio ref={audioRef} loop>
-          <source src="https://koshalworld.com/files/download/id/61733" type="audio/mpeg" />
+          <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
 
@@ -702,7 +702,7 @@ export default function BirthdayWebsite() {
 
         {/* Hidden audio element */}
         <audio ref={audioRef} loop>
-          <source src="https://koshalworld.com/files/download/id/61733" type="audio/mpeg" />
+          <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
 
